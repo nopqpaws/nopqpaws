@@ -24,11 +24,8 @@ Interests: .................. Building maintainable tools, performance tuning, c
 **nopsh** — Minimal POSIX-esque shell written in [C](https://github.com/nopqpaws/nopsh)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nopqpaws&show_icons=true&theme=dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopqpaws&layout=compact&theme=dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=nopqpaws&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopqpaws&layout=compact&theme=dark&hide_border=true"/>
 </p>
 
 ---
