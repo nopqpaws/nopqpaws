@@ -1,31 +1,8 @@
-```
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#*+*#%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*------------=*%%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%%%#=-----::..:=-=---:::::-%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%%%==--------:::--=====-:::--=*%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%#+======+=----:--=++=+=:-+*%#=+#%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%%%**+++****+=--=@%#+*+=++++-=%%==%%%%%%%#%%%@@@
-%%%%%%%%%%%%%%%%%%%%%%***####****+====+++++++*+***+==#%#%%@@%%%%%%@
-%%%%%%%%%%%%%%%%%%%%%%+##%%###***++++++=:...........:%%##@%%%%%%%%@
-%%%%%%%%%%%%%%%%%%#%#**#***#**#***+-..................:+=.-%%%%%%%%
-%%%%%%%%%%%%%%%%%%%%@**##***####*--:::...............:%%%.:%%%%%%%%
-%%%%%%%%%%%%%%%%%%@@%*###%#***##+=-:::...............+%%#.-%%%%%%%%
-@@@@@@@@@@@@@@%@@@@@+++####%#***%+=-:::.............:*%%.-%%%%%%%%%
-@@@@@@@@@@@@@@@@@@*-*######%%%#**#+=-::.............:#%.-+=+%%%%%%%
-%%%%%%%%%%%%%%%%=---==+**#%@%%@@%##=-::.............:=.-###%%%%%%%%
-%%%%%%%%%%%%%%=---+-===++*****#%%%%#=-::..............-###*+*%%%%%%
-%%%%%%%%%%%%%*==**+=====+++***###%%%%=-:.............-#%#**%%%%%%%%
-%%%%%%%%%##**++*+*====+#*++****####%%*-::...........:+%%####%%%%%%%
------=-=========++=++%***++***#####*##=-:...........:=%%%%##%%%%%%%
-++++++++++++*+++*+++#****++**##########=:::.=########+%%%%%%%%%%%%%
-*************+++*=+******+++*##########*=%#####%%%%%%*%%%%%%%%%%%%%
-###%%%%%#%**%%%#*+*+*****+++#****######%%%%%%%%%%%##***%%%%%%%%%%%%
-%%%%%%%%%#*##*******++***++#******####%%%%%%%%%%##%#*++#%%%%%%%%%%%
-%%%%%%%%%*++*****+*+++***+#***###*#####%%#%%%###%#%***++%%%%%%%%%%%
-%%%%%%%%*++********+++**+******#########%%#%%%####***+++*%%%%%%%%%%
-%%%%%%%%++*********++************###########%%%###*#+++++%%%%%%%%%%
-%%%%%%%****************************####%##%%%%%###*#+==++#%%%%%%%%%
-```
+<p align="center">
+  <img src="assets/kermit.png" alt="ascii frog" width="500"/>
+</p>
+
+<br>
 
 ## nopqpaws@github
 
@@ -33,28 +10,27 @@
 
 ```
 OS: ......................... Linux / Windows
-Process.Role: ............... Technical Specialist (full-time)
-Languages.Real: ............. Python, C, C++, Java, Bash
-Languages.Human: ............ English
+Role: ....................... Technical Specialist (full-time)
+Languages: .................. Python, C, C++, Java, Bash, Go
 Editor: ..................... Vim, JetBrains (PyCharm / IntelliJ), VS Code
-Focus.Areas: ................ Encryption, Cross‑Language Architecture, Security
-Interests: .................. Building maintainable tools, performance tuning, clean documentation, modular design
+Focus Areas: ................ Encryption, Cross‑Language Architecture, Security
+Interests: .................. Building maintainable tools, performance tuning, clean documentation, and modular design
 ```
 
 ### Projects
+---
+**AES-GCM Encryptor** — AES-256-GCM encryption tool, implemented in [Python](https://github.com/nopqpaws/directory_encryptor), [Java](https://github.com/nopqpaws/DirectoryEncryptor), and C
 
----  
-```
-AES‑GCM.Encryptor: .......... Python, Java, and C implementations
-```
+**nopsh** — Minimal POSIX-esque shell written in [C](https://github.com/nopqpaws/nopsh)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nopqpaws&show_icons=true&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nopqpaws&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
-### About.Me
-
-
-`I build practical, security‑focused tools with an emphasis on clarity, performance, and cross‑language architecture.`
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=nopqpaws&color=grey)
-![GitHub Stats](https://img.shields.io/badge/Encryption-AES--GCM-blue)
