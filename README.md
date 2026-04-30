@@ -19,7 +19,7 @@ Interests: .................. Building maintainable tools, performance tuning, c
 
 ### Projects
 ---
-**AES-GCM Encryptor** — AES-256-GCM encryption tool, implemented in [Python](https://github.com/nopqpaws/directory_encryptor), [Java](https://github.com/nopqpaws/DirectoryEncryptor), and C
+**AES-GCM Encryptor** — AES-256-GCM encryption tool, implemented in [Python](https://github.com/nopqpaws/directory_encryptor), [Java](https://github.com/nopqpaws/DirectoryEncryptor), and [C](https://github.com/nopqpaws/directory_encryptor_c)
 
 **nopsh** — Minimal POSIX-esque shell written in [C](https://github.com/nopqpaws/nopsh)
 
