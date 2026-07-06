@@ -10,7 +10,7 @@
 
 ```
 OS: ......................... Linux / Windows
-Role: ....................... Technical Specialist (full-time)
+Role: ....................... Systems Administrator (full-time)
 Languages: .................. Python, C, C++, Java, Bash, Go
 Editor: ..................... Vim, JetBrains (PyCharm / IntelliJ), VS Code
 Focus Areas: ................ Encryption, Cross‑Language Architecture, Security
